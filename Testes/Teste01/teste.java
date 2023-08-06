@@ -16,5 +16,6 @@ public class teste {
             }
         }
         System.out.println("Tempo Esgotado!");
+    console.close();
     }
 }
